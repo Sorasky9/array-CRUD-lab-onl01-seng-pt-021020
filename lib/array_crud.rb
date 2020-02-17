@@ -27,8 +27,8 @@ cars.shift("wow")
 end
 
 def retrieve_element_from_index(array, index_number)
-cars = ["Aston Martin", "BMW", "Toyota"]
-cars = [2] 
+cars = ["Aston Martin", "BMW", "Arrays!"]
+cars = [2]
 end
 
 def retrieve_first_element_from_array(array)
