@@ -27,7 +27,7 @@ cars.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-cars = ["Aston Martin", "BMW", "Arrays!"]
+cars = ["Aston Martin", "BMW", "am!"]
 cars = [2]
 end
 
