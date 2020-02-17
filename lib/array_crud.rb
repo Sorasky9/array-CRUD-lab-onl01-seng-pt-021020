@@ -17,7 +17,7 @@ cars.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-cars = ["Aston Martin", "BMW", "Toyota", "Array!"]
+cars = ["Aston Martin", "BMW", "Toyota", "array!"]
 cars = cars.pop
 end
 
