@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 cars = ["Aston Martin", "BMW", "am"]
-cars = [2]
+cars[2]
 end
 
 def retrieve_first_element_from_array(array)
