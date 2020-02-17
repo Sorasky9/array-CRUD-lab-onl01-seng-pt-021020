@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
 cars = ["Aston Martin", "BMW", "Toyota"]
-cars.pop
+cars = cars.pop
 end
 
 def remove_element_from_start_of_array(array)
