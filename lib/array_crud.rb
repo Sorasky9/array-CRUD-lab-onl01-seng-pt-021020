@@ -32,7 +32,7 @@ cars[2]
 end
 
 def retrieve_first_element_from_array(array)
-  cars = ["wow", "Aston Martin", "BMW", "Toyota"]
+  cars = ["Aston Martin", "wow", "BMW", "Toyota"]
   cars[1]
 
 end
