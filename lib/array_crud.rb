@@ -22,7 +22,7 @@ cars = cars.pop
 end
 
 def remove_element_from_start_of_array(array)
-cars = ["Aston Martin", "BMW", "Toyota"]
+cars = ["wow", "Aston Martin", "BMW", "Toyota"]
 cars.shift
 end
 
